@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="accessibility_service_label">Floating Window Capture Service</string>
+    <string name="accessibility_service_description">This service captures the UI layout of floating
+        windows for testing purposes.
+    </string>
+
+    <!-- <string name="app_name">My Test App</string> -->
+</resources>
